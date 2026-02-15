@@ -5,6 +5,10 @@ I’m a **Software Engineer** focused on building **scalable web and mobile appl
 
 I enjoy working close to the product, making technical decisions, designing reusable systems and turning complex requirements into simple, reliable solutions.
 
+<p align="center">
+  <a href="https://linkedin.com/in/rianrodri"><img src="https://img.shields.io/badge/linkedin-Rian-0A66C2?style=for-the-badge&logo=linkedin&amp;logoColor=white"/></a>
+  <a href="mailto:riansatro@gmail.com"><img src="https://img.shields.io/badge/email-Rian-D14836?style=for-the-badge&logo=gmail&amp;logoColor=white"/></a>
+</p>
 ---
 
 ## 🚀 What I work with
