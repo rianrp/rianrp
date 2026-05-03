@@ -59,7 +59,6 @@ I enjoy working close to the product, making technical decisions, designing reus
 ---
 
 ## 🌍 Let’s connect
-- 💼 LinkedIn: https://www.linkedin.com/in/rianrodri  
 - 💻 GitHub: https://github.com/rianrp  
 - 📫 Email: riansatro@gmail.com  
 
