@@ -90,7 +90,7 @@ Currently building products with React, TypeScript, Supabase, Firebase, modern U
     </td>
     <td width="50%">
       <a href="https://LINK_DO_WRITTERBOOK.com">
-        <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO/main/assets/writterbook.png" style="border-radius: 12px;" alt="WritterBook" />
+        <img src="https://github.com/rianrp/rianrp/edit/main/image.png" style="border-radius: 12px;" alt="WritterBook" />
       </a>
       <h3>WritterBook</h3>
       <p>
